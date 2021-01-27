@@ -8,6 +8,6 @@
 
 
 
-![Project Image](./assets/images/pj1.png = 300x225)
-![Project Image](./assets/images/pj2.png = 300x225)
+![Project Image](./assets/images/pj1.png)
+![Project Image](./assets/images/pj2.png)
 ![Project Image](./assets/images/pj3.png)
