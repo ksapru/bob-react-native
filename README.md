@@ -1,4 +1,4 @@
-# bob-react-native
+# Tesla clone using React Native 
 
 ## Contents 
 *  Built a web app using React Native for practice
